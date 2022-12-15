@@ -3,7 +3,7 @@ Code is in the following folder "Starter_Code\Starter_Code" of this repository
 
 1.Overview of the analysis
 
-Purpose: To detmine the differences in the fares over time for different city settings (Rural, Suburban and Urban)
+-Purpose: To detmine the differences in the fares over time for different city settings (Rural, Suburban and Urban)
 
 2.Results
 
